@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "RemoveAI",
+  "version": "1.0",
+
+  "description": "Removes AI results from searches. Add !ai to your searches to remove ai generated results. Works best with images, likely will not filter out most ai websites.",
+
+  "icons": {
+    "48": "48.png",
+    "96": "96.png"
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://www.google.com/*",
+    "*://www.bing.com/*",
+    "*://duckduckgo.com/*"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
