@@ -4,7 +4,7 @@ This extension only supports Google, Bing, and DuckDuckGo search engines. I will
 <strong>To request an engine be added, or submit an exception that helps filter out AI results, submit an <a href="https://github.com/tildes1lly/RemoveAI/issues">issue</a> tagged with "feature request" </strong>
 
 # Downloading
-Simply download RemoveAI.zip from Releases, extract it, and add manifest.json as an extention to Firefox.
+<a href="https://addons.mozilla.org/en-US/firefox/addon/removeai/">Install the addon.</a>
 
 # How to use:
 In any Google, Bing, Or DuckDuckGo search, add <code>!ai</code> to the end of your search. This will apply filters to block out ai results without you having to type them in manually. <br>
