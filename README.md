@@ -3,7 +3,7 @@ Remove AI results from search results on Firefox and Firefox based browsers.
 This extension only supports Google, Bing, and DuckDuckGo search engines. I will attempt to add any that are missing if a user requests them. <br>
 <strong>To request an engine be added, or submit an exception that helps filter out AI results, submit an <a href="https://github.com/tildes1lly/RemoveAI/issues">issue</a> tagged with "feature request" </strong>
 
-# Downloading
+# Instalation
 <a href="https://addons.mozilla.org/en-US/firefox/addon/removeai/">Install the addon.</a>
 
 # How to use:
